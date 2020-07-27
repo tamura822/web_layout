@@ -2,3 +2,11 @@
     font-size: 18px;
     background-color: #a0e0c0;
 }
+.item{
+ font-size: 18px;
+ float: left;
+}
+
+.kekka{
+ clear: both;
+}
