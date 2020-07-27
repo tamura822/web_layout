@@ -4,9 +4,9 @@
 }
 .item{
  font-size: 18px;
- float: left;
+ display: inline-block;
 }
 
-.kekka{
- clear: both;
+.list{
+ display: inline-block;
 }
